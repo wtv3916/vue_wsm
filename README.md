@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue_wsm
 
 > A Vue.js project
@@ -28,3 +29,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue_wsm
+>>>>>>> ace6e4f31c31f400dada1a59548e86f05bb5758d
